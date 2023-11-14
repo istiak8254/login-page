@@ -1,0 +1,41 @@
+.box{
+  background-color: beige;
+  padding: 20px;
+  width: 60%;
+  margin: auto;
+}
+.box h1{
+  color: rgb(45, 172, 231);
+  font-size: 50px;
+  margin-top: 100px;
+}
+.box h3{
+  width: 30%;
+}
+.box form{
+ text-align: center;
+ background-color: darkgrey;
+ width: 400px;
+ padding: 10px;
+ 
+}
+.box form input{
+margin: 5px ;
+padding: 8px;
+width: 250px;
+background-color: azure;
+text-align: center;
+border-radius: 5px;
+text-align: left;
+}
+#btn{
+background-color: rgb(45, 172, 231);
+text-align: center;
+}
+.links{
+text-align: center;
+}
+.links a{
+text-decoration: none;
+margin-top: 20px;
+}

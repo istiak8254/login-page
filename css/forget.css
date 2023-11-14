@@ -1,0 +1,26 @@
+.forget-box{
+    background-color: black;
+    padding: 30px;
+    width: 40%;
+    margin: auto;
+}
+.forget-box h1{
+    color: white;
+}
+.forget-box p{
+    color: white;
+}
+.forget-box input{
+    padding: 5px;
+width: 400px;
+}
+#btn{
+    width: 80px;
+    margin-top: 8px;
+    text-align: center;
+}
+#src{
+    width: 80px;
+    margin-top: 8px;
+    text-align: center;
+}
